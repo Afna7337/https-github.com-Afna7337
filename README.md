@@ -3,7 +3,7 @@
 I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA graduated with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
 
 
-<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/afna-rahmath"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 <details>
