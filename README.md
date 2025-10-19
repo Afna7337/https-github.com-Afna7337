@@ -2,7 +2,9 @@
 
 I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA graduated with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success. Well-versed in technology and writing code to create systems that are reliable and user-friendly.
 
+
 <a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 
 <details>
   <summary>More about me</summary>
@@ -35,8 +37,10 @@ I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA 
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="Java" />
-
-
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="power Bi" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&color=000000" alt="OOPS" />
+    
   </div>
 </div>
 
@@ -49,9 +53,6 @@ I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA 
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="Data Analyst" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="DBMS" />
 <img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="AI" />
-
-
-
 
 </div>
 
