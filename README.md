@@ -27,7 +27,6 @@ I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA 
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&color=000000" alt="C" />
       <img src="https://img.shields.io/badge/C%2B%2B-F34B7F?style=for-the-badge&logo=c%2B%2B&color=000000" alt="C++" />
@@ -52,7 +51,10 @@ I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA 
 <img src="https://img.shields.io/badge/Artificial_Intelligence-Certified-purple?style=for-the-badge&logo=openai&logoColor=white&color=000000" alt="Certified Artificial Intelligence Specialist" />
 <img src="https://img.shields.io/badge/DBMS-Certified-blue?style=for-the-badge&logo=mysql&logoColor=white&color=000000" alt="Certified Database Management System Specialist" />
 <img src="https://img.shields.io/badge/AI-Certified-purple?style=for-the-badge&logo=openai&logoColor=white&color=000000" alt="Certified AI Specialist" />
-<img src="https://img.shields.io/badge/Data_Analyst-Certified-blue?style=for-the-badge&logo=google-analytics&logoColor=white&color=000000" alt="Certified Data Analyst" />
+<img src="https://img.shields.io/badge/Python-Certified-yellow?style=for-the-badge&logo=python&logoColor=white&color=000000" alt="Certified Python Developer" />
+<img src="https://img.shields.io/badge/Security_Analyst-Certified-red?style=for-the-badge&logo=fortinet&logoColor=white&color=000000" alt="Certified Security Analyst" />
+
+
 
 
 </div>
