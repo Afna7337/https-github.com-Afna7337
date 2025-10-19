@@ -48,11 +48,12 @@ I'm **[`AFNA RAHMATH`]**,I am a Master of Computer Applications Student and BCA 
 <h2 id="Certifications" align=''> Certifications </h2>
 
 <div>
-<img src="https://img.shields.io/badge/CompTIA_Security%2B-Certified-red?style=for-the-badge&color=000000" alt="PYTHON" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="POWER BI" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="Data Analyst" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="DBMS" />
-<img src="https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-blue?style=for-the-badge&logo=ec-council&color=000000" alt="AI" />
+<img src="https://img.shields.io/badge/Data_Analyst-Certified-blue?style=for-the-badge&logo=google-analytics&logoColor=white&color=000000" alt="Certified Data Analyst" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-Certified-purple?style=for-the-badge&logo=openai&logoColor=white&color=000000" alt="Certified Artificial Intelligence Specialist" />
+<img src="https://img.shields.io/badge/DBMS-Certified-blue?style=for-the-badge&logo=mysql&logoColor=white&color=000000" alt="Certified Database Management System Specialist" />
+<img src="https://img.shields.io/badge/AI-Certified-purple?style=for-the-badge&logo=openai&logoColor=white&color=000000" alt="Certified AI Specialist" />
+<img src="https://img.shields.io/badge/Data_Analyst-Certified-blue?style=for-the-badge&logo=google-analytics&logoColor=white&color=000000" alt="Certified Data Analyst" />
+
 
 </div>
 
